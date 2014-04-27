@@ -1,0 +1,8 @@
+prefix=/DiskE/dokumenty/catkin_workspace/install
+
+Name: traffic_lights
+Description: Description of traffic_lights
+Version: 0.0.0
+Cflags: -I/DiskE/dokumenty/catkin_workspace/install/include
+Libs: -L/DiskE/dokumenty/catkin_workspace/install/lib 
+Requires: message_runtime

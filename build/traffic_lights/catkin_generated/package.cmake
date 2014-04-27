@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "traffic_lights")
+set(traffic_lights_MAINTAINER "michal <michal@todo.todo>")
+set(traffic_lights_DEPRECATED "")
+set(traffic_lights_VERSION "0.0.0")
+set(traffic_lights_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(traffic_lights_RUN_DEPENDS "message_runtime" "roscpp" "rospy" "std_msgs")
+set(traffic_lights_BUILDTOOL_DEPENDS "catkin")
